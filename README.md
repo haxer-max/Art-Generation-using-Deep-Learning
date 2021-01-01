@@ -4,7 +4,7 @@ This is implementaion on neural style transfer algorithm to add a style to an im
 This implementation in done in tensorflow 1
 
 >### Disclaimer
->Images I have used here may be copyrighted and I am use them only for learning purposes, please don't sue me.
+>Images I have used here may be copyrighted and I am using them only for learning purposes, please don't sue me.
 
 
 ## Examples
@@ -22,10 +22,10 @@ Noise Image | output
 :------------:|:------:
 <img src="readmeimg/0.jpg" height=120 width=160/> |<img src="readmeimg/generated_image2.jpg" height=120 width=160/>
 
-### Without Noise evolution
+### Without Noise Animation
 <img src="readmeimg/evolution1.gif" height=120 width=160/>
 
-### With Noise
+### With Noise Animation
 <img src="readmeimg/evolution2.gif" height=120 width=160/>
 
 
@@ -40,5 +40,5 @@ Noise Image | output
 > - You will be asked for name of content and style image. If you are using my images, put `mando.jpg` and `design.jpg`.
 > - fill other inputs, then it will start generating images in `output` folder.
 > #### Optional
-> - If you want to see evolution of images in gif (as I haev shown above), run `imgtogif.py` or second cell of `main.ipynb`. You will need additional dependency for it, that is `imageio`.
+> - If you want to see animation of images in gif (as I haev shown above), run `imgtogif.py` or second cell of `main.ipynb`. You will need additional dependency for it, that is `imageio`.
 > - The gif will get generated in output folder
