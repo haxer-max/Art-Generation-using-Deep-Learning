@@ -20,7 +20,7 @@ Content Image | Style Image | output
 ### When done with noise
 Noise Image | output
 :------------:|:------:
-<img src="readmeimg/0.jpg" height=150 width=200/> |<img src="readmeimg/generated_image2.jpg" height=120 width=160/>
+<img src="readmeimg/0.jpg" height=150 width=200/> |<img src="readmeimg/generated_image2.jpg" height=150 width=200/>
 
 ### Without Noise Animation
 <img src="readmeimg/evolution1.gif" height=150 width=200/>
