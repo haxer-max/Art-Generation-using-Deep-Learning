@@ -15,18 +15,18 @@ This implementation in done in tensorflow 1
 
 Content Image | Style Image | output
 :------------:|:-----------:|:------:
-<img src="readmeimg/mando.jpg" height=120 width=160/>| <img src="readmeimg/design.jpg" height=120 width=160/> |<img src="readmeimg/generated_image1.jpg" height=120 width=160/>
+<img src="readmeimg/mando.jpg" height=150 width=200/>| <img src="readmeimg/design.jpg" height=150 width=200/> |<img src="readmeimg/generated_image1.jpg" height=150 width=200/>
 
 ### When done with noise
 Noise Image | output
 :------------:|:------:
-<img src="readmeimg/0.jpg" height=120 width=160/> |<img src="readmeimg/generated_image2.jpg" height=120 width=160/>
+<img src="readmeimg/0.jpg" height=150 width=200/> |<img src="readmeimg/generated_image2.jpg" height=120 width=160/>
 
 ### Without Noise Animation
-<img src="readmeimg/evolution1.gif" height=120 width=160/>
+<img src="readmeimg/evolution1.gif" height=150 width=200/>
 
 ### With Noise Animation
-<img src="readmeimg/evolution2.gif" height=120 width=160/>
+<img src="readmeimg/evolution2.gif" height=150 width=200/>
 
 
 
